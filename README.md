@@ -1,6 +1,3 @@
-# Dunbar-Veterinary-Clinic---Appointment-System-
-An Appointment System for a mixed country veterinary clinic
-
 # Dunbar Veterinary Clinic Appointment System
 
 ## 1. Project Overview
